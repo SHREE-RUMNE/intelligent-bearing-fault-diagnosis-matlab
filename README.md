@@ -1,0 +1,1 @@
+# intelligent-bearing-fault-diagnosis-matlab
